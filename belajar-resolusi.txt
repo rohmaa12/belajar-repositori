@@ -1,4 +1,4 @@
 belajar resolusi
 -belajar git dan github
--belajar php
+-belajar phyton
 -belajar laravel
